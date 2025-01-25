@@ -1,6 +1,10 @@
 # Student-Health-Conditions
 This project investigates the intricate relationships between student health behaviors and academic outcomes. Issues like stress, inadequate sleep, poor dietary habits, and mental health challenges are widely recognized, but their specific impacts on academic performance remain underexplored. By analyzing multiple datasets, this project aims to uncover patterns, validate findings across diverse contexts, and provide actionable recommendations to improve student health and academic success.  
 ## Features
+## Methods
+- Statistics: Pearson Coefficient, Spearman's Rank Coefficient, Chi-Square Test, visualizations (heatmaps, histograms, boxplots).
+- Machine Learning: Tree-based (Random Forest, XGBoost), KNN, SVMs (Linear, Polynomial, Radial Basis Function).
+- Evaluation metrics: Accuracy, Precision, Recall, Weighted F1-Score, Confusion Matrix.
 ## Purpose
 The primary objectives of this project are: 
  #### 1. Identify Correlations
