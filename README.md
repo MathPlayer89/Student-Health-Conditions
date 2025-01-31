@@ -1,6 +1,21 @@
 # Student-Health-Conditions
-This project investigates the intricate relationships between student health behaviors and academic outcomes. Issues like stress, inadequate sleep, poor dietary habits, and mental health challenges are widely recognized, but their specific impacts on academic performance remain underexplored. By analyzing multiple datasets, this project aims to uncover patterns, validate findings across diverse contexts, and provide actionable recommendations to improve student health and academic success.  
-## Features
+## 📌 Aims of the Project
+In recent years, student health challenges-such as stress, inadequate sleep, poor dietary habits, and mental health issues have become a growing concern worldwide. These factors not only affect well-being but also impact academic success. However, the intricate relationships between these health factors and academic outcomes remain underexplored. 
+
+This project analyzes multiple datasets to uncover connections between student health behaviors and academic performance. By leveraging data-driven insights, we aim to provide actionable recommendations to improve student well-being and educational outcomes. 
+
+## 🏁 Goal
+*  Develop and fine-tune a classification model to analyze correlations between health behaviors (e.g., mental health, physical activity, sleep) and academic performance (e.g., GPA, focus, grades).
+*  Identify universal patterns and context-specific trends by examining data from individual, national, and global perspectives.
+*  Offer evidence-based strategies to help schools, colleges, and policymakers enhance student success. 
+
+## 🔧 Methodologies
+## 🚀 Possible Outcomes
+## 💡 Project Implications
+## 🎯 Conclusion
+
+
+
 ## Purpose
 The primary objectives of this project are: 
  #### 1. Identify Correlations
