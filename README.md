@@ -32,7 +32,7 @@ The primary objectives of this project are:
 ## 🚀 Possible Outcomes
 - Expected Results: Successful predictive model, key health risk factors identified.
 - Practical Applications: School-based interventions, policy and decision-making, integration into student health systems.
-- Challenges and Ethical Considerations: Limitations in data quality, class imbalances, ensuring data privacy and security, addressing potential biases to ensure fail and euitable predictions.
+- Challenges and Ethical Considerations: Limitations in data quality, class imbalances, ensuring data privacy and security, addressing potential biases to ensure fail and equitable predictions.
 - Future Research Opportunities:  Utilizing larger and more diverse datasets, real-time health tracking.
      
 ## 💡 Project Implications
