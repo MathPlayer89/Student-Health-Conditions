@@ -148,17 +148,3 @@ This project aims to develop a predictive model capable of classifying students 
 
 By overcoming challenges and considering ethical implications, this project has the potential to significantly impact student health monitoring and intervention strategies.
 
-## Project Implications
-Ethical considerations are central to this project:
- #### Data Privacy: 
-  * Ensure compliance with FERPA and HIPAA by anonymizing datasets.
- #### Equity & Accessibility: 
-  * Prevent the misuse of health categorizations to stigmatize students or limit opportunities.
- #### Empowerment: 
-  * Use findings to promote healthy decision-making among students through supplemental educational content.
-
-## Conclusion
- #### Positive Impact
-  * Informative results to expand student supports and education around the impact of stress and other factors on their health.
- #### Model Comparison
-  * By exploring multiple model types, we can see how well each method predicts the classification levels. 
