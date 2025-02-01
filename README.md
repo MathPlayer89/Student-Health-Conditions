@@ -119,5 +119,9 @@ Ethical considerations are central to this project:
   * Prevent the misuse of health categorizations to stigmatize students or limit opportunities.
  #### Empowerment: 
   * Use findings to promote healthy decision-making among students through supplemental educational content.
-## Future Directions
+
 ## Conclusion
+ #### Positive Impact
+  * Informative results to expand student supports and education around the impact of stress and other factors on their health.
+ #### Model Comparison
+  * By exploring multiple model types, we can see how well each method predicts the classification levels. 
