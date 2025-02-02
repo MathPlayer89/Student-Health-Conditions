@@ -20,7 +20,7 @@ This project analyzes multiple datasets to uncover connections between student h
   - Data Preprocessing: Encoding categorical variables and scaling numerical variables
   - Evaluation metrics: Accuracy, Precision, Recall, Weighted F1-Score
 
-## Purpose
+## 🔍 Purpose
 The primary objectives of this project are: 
  #### 1. Identify Correlations
  Explore the relationships between health behaviors (e.g., sleep, physical activity, mental health) and academic outcomes (e.g., GPA, focus, grades). 
