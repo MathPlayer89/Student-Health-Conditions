@@ -1,4 +1,4 @@
-# Student-Health-Conditions
+# 🫀 Student-Health-Conditions
 ## 📌 Aims of the Project
 In recent years, student health challenges-such as stress, inadequate sleep, poor dietary habits, and mental health issues have become a growing concern worldwide. These factors not only affect well-being but also impact academic success. However, the intricate relationships between these health factors and academic outcomes remain underexplored. 
 
